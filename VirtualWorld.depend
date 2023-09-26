@@ -1,0 +1,2951 @@
+# depslib dependency file v1.0
+1576335405 source:f:\prog obektowe\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<memory>
+	<fstream>
+	"World.h"
+	"Animals.h"
+	"Plants.h"
+	<stdio.h>
+	<conio.h>
+
+1576352531 f:\prog obektowe\main\include\world.h
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+
+1576352827 f:\prog obektowe\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576166755 f:\prog obektowe\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576275377 f:\prog obektowe\main\include\plant.h
+	"Organism.h"
+
+1576275377 f:\prog obektowe\main\include\animals.h
+	"Sheep.h"
+	"Antelope.h"
+
+1576349380 f:\prog obektowe\main\include\sheep.h
+	"Animal.h"
+
+1576275377 f:\prog obektowe\main\include\antelope.h
+	"Animal.h"
+
+1576275376 f:\prog obektowe\main\include\plants.h
+	"Belladonna.h"
+
+1576349380 f:\prog obektowe\main\include\belladonna.h
+	"Plant.h"
+
+1576276074 source:f:\prog obektowe\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576166823 source:f:\prog obektowe\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576166893 source:f:\prog obektowe\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576167220 source:f:\prog obektowe\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576167220 source:f:\prog obektowe\main\src\sheep.cpp
+	"Sheep.h"
+
+1576352675 source:f:\prog obektowe\main\src\world.cpp
+	"World.h"
+
+1576351306 source:f:\prog obektowe\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576448921 source:e:\prog obektowe\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<memory>
+	<fstream>
+	"World.h"
+	"Animals.h"
+	"Plants.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576449727 e:\prog obektowe\main\include\world.h
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+
+1576446792 e:\prog obektowe\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576166755 e:\prog obektowe\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576275377 e:\prog obektowe\main\include\plant.h
+	"Organism.h"
+
+1576275377 e:\prog obektowe\main\include\animals.h
+	"Sheep.h"
+	"Antelope.h"
+
+1576349380 e:\prog obektowe\main\include\sheep.h
+	"Animal.h"
+
+1576275377 e:\prog obektowe\main\include\antelope.h
+	"Animal.h"
+
+1576275376 e:\prog obektowe\main\include\plants.h
+	"Belladonna.h"
+
+1576349380 e:\prog obektowe\main\include\belladonna.h
+	"Plant.h"
+
+1576423618 source:e:\prog obektowe\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576166823 source:e:\prog obektowe\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576166893 source:e:\prog obektowe\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576426401 source:e:\prog obektowe\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576167220 source:e:\prog obektowe\main\src\sheep.cpp
+	"Sheep.h"
+
+1576447560 source:e:\prog obektowe\main\src\world.cpp
+	"World.h"
+
+1576447535 source:e:\prog obektowe\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576448775 e:\prog obektowe\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576449727 source:e:\prog obektowe\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576167050 source:e:\prog obektowe\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576450400 e:\prog obektowe\main\include\fox.h
+	"Animal.h"
+
+1576167075 source:e:\prog obektowe\main\src\grass.cpp
+	"Grass.h"
+
+1576450412 e:\prog obektowe\main\include\grass.h
+	"Plant.h"
+
+1576167101 source:e:\prog obektowe\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576450422 e:\prog obektowe\main\include\guarana.h
+	"Plant.h"
+
+1576423618 source:c:\mingw\c++\16  dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576166755 c:\mingw\c++\16  dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576446792 c:\mingw\c++\16  dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576275377 c:\mingw\c++\16  dec\main\include\plant.h
+	"Organism.h"
+
+1576520046 c:\mingw\c++\16  dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+
+1576511941 c:\mingw\c++\16  dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576166823 source:c:\mingw\c++\16  dec\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576275377 c:\mingw\c++\16  dec\main\include\antelope.h
+	"Animal.h"
+
+1576166893 source:c:\mingw\c++\16  dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576349380 c:\mingw\c++\16  dec\main\include\belladonna.h
+	"Plant.h"
+
+1576167050 source:c:\mingw\c++\16  dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576450400 c:\mingw\c++\16  dec\main\include\fox.h
+	"Animal.h"
+
+1576167075 source:c:\mingw\c++\16  dec\main\src\grass.cpp
+	"Grass.h"
+
+1576450412 c:\mingw\c++\16  dec\main\include\grass.h
+	"Plant.h"
+
+1576167101 source:c:\mingw\c++\16  dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576450422 c:\mingw\c++\16  dec\main\include\guarana.h
+	"Plant.h"
+
+1576512058 source:c:\mingw\c++\16  dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576519991 source:c:\mingw\c++\16  dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576426401 source:c:\mingw\c++\16  dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576167220 source:c:\mingw\c++\16  dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576349380 c:\mingw\c++\16  dec\main\include\sheep.h
+	"Animal.h"
+
+1576167367 source:c:\mingw\c++\16  dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576450432 c:\mingw\c++\16  dec\main\include\wolf.h
+	"Animal.h"
+
+1576450296 c:\mingw\c++\16  dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+
+1576512368 source:c:\mingw\c++\16  dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576450328 c:\mingw\c++\16  dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+
+1576519879 source:c:\mingw\c++\16  dec\main\src\world.cpp
+	"World.h"
+
+1576529518 source:c:\users\little john\desktop\16  dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576538710 c:\users\little john\desktop\16  dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+
+1576450296 c:\users\little john\desktop\16  dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+
+1576534711 c:\users\little john\desktop\16  dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\users\little john\desktop\16  dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576537896 c:\users\little john\desktop\16  dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\users\little john\desktop\16  dec\main\include\plant.h
+	"Organism.h"
+
+1576534725 c:\users\little john\desktop\16  dec\main\include\fox.h
+	"Animal.h"
+
+1576534737 c:\users\little john\desktop\16  dec\main\include\wolf.h
+	"Animal.h"
+
+1576450328 c:\users\little john\desktop\16  dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+
+1576534786 c:\users\little john\desktop\16  dec\main\include\grass.h
+	"Plant.h"
+
+1576534829 c:\users\little john\desktop\16  dec\main\include\guarana.h
+	"Plant.h"
+
+1576529417 c:\users\little john\desktop\16  dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576529593 source:c:\users\little john\desktop\16  dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576529635 source:c:\users\little john\desktop\16  dec\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576534931 c:\users\little john\desktop\16  dec\main\include\antelope.h
+	"Animal.h"
+
+1576529649 source:c:\users\little john\desktop\16  dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576535074 c:\users\little john\desktop\16  dec\main\include\belladonna.h
+	"Plant.h"
+
+1576529671 source:c:\users\little john\desktop\16  dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\users\little john\desktop\16  dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\users\little john\desktop\16  dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576529708 source:c:\users\little john\desktop\16  dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576537896 source:c:\users\little john\desktop\16  dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\users\little john\desktop\16  dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\users\little john\desktop\16  dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576529794 source:c:\users\little john\desktop\16  dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576529518 source:c:\mingw\c++\17  dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576606729 c:\mingw\c++\17  dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+
+1576450296 c:\mingw\c++\17  dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+
+1576600580 c:\mingw\c++\17  dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\mingw\c++\17  dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576603512 c:\mingw\c++\17  dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\mingw\c++\17  dec\main\include\plant.h
+	"Organism.h"
+
+1576600612 c:\mingw\c++\17  dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\mingw\c++\17  dec\main\include\wolf.h
+	"Animal.h"
+
+1576450328 c:\mingw\c++\17  dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\17  dec\main\include\grass.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\17  dec\main\include\guarana.h
+	"Plant.h"
+
+1576529417 c:\mingw\c++\17  dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576529593 source:c:\mingw\c++\17  dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576529635 source:c:\mingw\c++\17  dec\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576534931 c:\mingw\c++\17  dec\main\include\antelope.h
+	"Animal.h"
+
+1576529649 source:c:\mingw\c++\17  dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576535074 c:\mingw\c++\17  dec\main\include\belladonna.h
+	"Plant.h"
+
+1576529671 source:c:\mingw\c++\17  dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\mingw\c++\17  dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\17  dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576529708 source:c:\mingw\c++\17  dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\mingw\c++\17  dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\mingw\c++\17  dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\mingw\c++\17  dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576529794 source:c:\mingw\c++\17  dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576608315 c:\mingw\c++\17  dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576607049 source:c:\mingw\c++\17  dec\main\src\log.cpp
+	<vector>
+	<algorithm>
+	<memory>
+	<numeric>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+
+1576607324 source:c:\mingw\c++\17  dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576529518 source:c:\users\little john\desktop\17  dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576621139 c:\users\little john\desktop\17  dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+
+1576450296 c:\users\little john\desktop\17  dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+
+1576600580 c:\users\little john\desktop\17  dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\users\little john\desktop\17  dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576618028 c:\users\little john\desktop\17  dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\users\little john\desktop\17  dec\main\include\plant.h
+	"Organism.h"
+
+1576621139 c:\users\little john\desktop\17  dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\users\little john\desktop\17  dec\main\include\wolf.h
+	"Animal.h"
+
+1576450328 c:\users\little john\desktop\17  dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+
+1576600612 c:\users\little john\desktop\17  dec\main\include\grass.h
+	"Plant.h"
+
+1576534829 c:\users\little john\desktop\17  dec\main\include\guarana.h
+	"Plant.h"
+
+1576529417 c:\users\little john\desktop\17  dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576608315 c:\users\little john\desktop\17  dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529593 source:c:\users\little john\desktop\17  dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576529635 source:c:\users\little john\desktop\17  dec\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576534931 c:\users\little john\desktop\17  dec\main\include\antelope.h
+	"Animal.h"
+
+1576529649 source:c:\users\little john\desktop\17  dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576535074 c:\users\little john\desktop\17  dec\main\include\belladonna.h
+	"Plant.h"
+
+1576529671 source:c:\users\little john\desktop\17  dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\users\little john\desktop\17  dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\users\little john\desktop\17  dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576529708 source:c:\users\little john\desktop\17  dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\users\little john\desktop\17  dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\users\little john\desktop\17  dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\users\little john\desktop\17  dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576529794 source:c:\users\little john\desktop\17  dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576621963 source:c:\users\little john\desktop\17  dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576608334 source:c:\users\little john\desktop\17  dec\main\src\log.cpp
+	<Log.h>
+
+1576529518 source:c:\mingw\c++\project c++\18 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576692171 c:\mingw\c++\project c++\18 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576450296 c:\mingw\c++\project c++\18 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+
+1576600580 c:\mingw\c++\project c++\18 dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\mingw\c++\project c++\18 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576618028 c:\mingw\c++\project c++\18 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\mingw\c++\project c++\18 dec\main\include\plant.h
+	"Organism.h"
+
+1576621139 c:\mingw\c++\project c++\18 dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\mingw\c++\project c++\18 dec\main\include\wolf.h
+	"Animal.h"
+
+1576450328 c:\mingw\c++\project c++\18 dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\project c++\18 dec\main\include\grass.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\project c++\18 dec\main\include\guarana.h
+	"Plant.h"
+
+1576686934 c:\mingw\c++\project c++\18 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576608315 c:\mingw\c++\project c++\18 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529593 source:c:\mingw\c++\project c++\18 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576529635 source:c:\mingw\c++\project c++\18 dec\main\src\antelope.cpp
+	"Antelope.h"
+	"World.h"
+
+1576534931 c:\mingw\c++\project c++\18 dec\main\include\antelope.h
+	"Animal.h"
+
+1576529649 source:c:\mingw\c++\project c++\18 dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576535074 c:\mingw\c++\project c++\18 dec\main\include\belladonna.h
+	"Plant.h"
+
+1576529671 source:c:\mingw\c++\project c++\18 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\mingw\c++\project c++\18 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\project c++\18 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576608334 source:c:\mingw\c++\project c++\18 dec\main\src\log.cpp
+	<Log.h>
+
+1576686934 source:c:\mingw\c++\project c++\18 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\mingw\c++\project c++\18 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\mingw\c++\project c++\18 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\mingw\c++\project c++\18 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576529794 source:c:\mingw\c++\project c++\18 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576686791 source:c:\mingw\c++\project c++\18 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576529518 source:e:\prog obektowe\19 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576704092 e:\prog obektowe\19 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576700324 e:\prog obektowe\19 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+
+1576600580 e:\prog obektowe\19 dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 e:\prog obektowe\19 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576618028 e:\prog obektowe\19 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 e:\prog obektowe\19 dec\main\include\plant.h
+	"Organism.h"
+
+1576621139 e:\prog obektowe\19 dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 e:\prog obektowe\19 dec\main\include\wolf.h
+	"Animal.h"
+
+1576711817 e:\prog obektowe\19 dec\main\include\lion.h
+	"Animal.h"
+
+1576709478 e:\prog obektowe\19 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 e:\prog obektowe\19 dec\main\include\grass.h
+	"Plant.h"
+
+1576534829 e:\prog obektowe\19 dec\main\include\guarana.h
+	"Plant.h"
+
+1576686934 e:\prog obektowe\19 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576608315 e:\prog obektowe\19 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529593 source:e:\prog obektowe\19 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576529649 source:e:\prog obektowe\19 dec\main\src\belladonna.cpp
+	"Belladonna.h"
+	"World.h"
+
+1576535074 e:\prog obektowe\19 dec\main\include\belladonna.h
+	"Plant.h"
+
+1576529671 source:e:\prog obektowe\19 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:e:\prog obektowe\19 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:e:\prog obektowe\19 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576608334 source:e:\prog obektowe\19 dec\main\src\log.cpp
+	<Log.h>
+
+1576686934 source:e:\prog obektowe\19 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:e:\prog obektowe\19 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:e:\prog obektowe\19 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:e:\prog obektowe\19 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576529794 source:e:\prog obektowe\19 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576710011 source:e:\prog obektowe\19 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576705312 source:e:\prog obektowe\19 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576709325 source:e:\prog obektowe\19 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576709518 e:\prog obektowe\19 dec\main\include\thorn.h
+	"Plant.h"
+
+1576529518 source:c:\mingw\c++\project c++\19 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576782537 c:\mingw\c++\project c++\19 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576700324 c:\mingw\c++\project c++\19 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+
+1576600580 c:\mingw\c++\project c++\19 dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\mingw\c++\project c++\19 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576618028 c:\mingw\c++\project c++\19 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\mingw\c++\project c++\19 dec\main\include\plant.h
+	"Organism.h"
+
+1576621139 c:\mingw\c++\project c++\19 dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\mingw\c++\project c++\19 dec\main\include\wolf.h
+	"Animal.h"
+
+1576745924 c:\mingw\c++\project c++\19 dec\main\include\lion.h
+	"Animal.h"
+
+1576709478 c:\mingw\c++\project c++\19 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\project c++\19 dec\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\mingw\c++\project c++\19 dec\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\project c++\19 dec\main\include\guarana.h
+	"Plant.h"
+
+1576686934 c:\mingw\c++\project c++\19 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576608315 c:\mingw\c++\project c++\19 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529671 source:c:\mingw\c++\project c++\19 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\mingw\c++\project c++\19 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\project c++\19 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576608334 source:c:\mingw\c++\project c++\19 dec\main\src\log.cpp
+	<Log.h>
+
+1576686934 source:c:\mingw\c++\project c++\19 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\mingw\c++\project c++\19 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\mingw\c++\project c++\19 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\mingw\c++\project c++\19 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576709325 source:c:\mingw\c++\project c++\19 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:c:\mingw\c++\project c++\19 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576782315 source:c:\mingw\c++\project c++\19 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576782491 source:c:\mingw\c++\project c++\19 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+
+1576782217 source:c:\mingw\c++\project c++\19 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576529518 source:e:\prog obektowe\19 dec_evening\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576789459 e:\prog obektowe\19 dec_evening\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576700324 e:\prog obektowe\19 dec_evening\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+
+1576600580 e:\prog obektowe\19 dec_evening\main\include\sheep.h
+	"Animal.h"
+
+1576529337 e:\prog obektowe\19 dec_evening\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576794777 e:\prog obektowe\19 dec_evening\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 e:\prog obektowe\19 dec_evening\main\include\plant.h
+	"Organism.h"
+
+1576621139 e:\prog obektowe\19 dec_evening\main\include\fox.h
+	"Animal.h"
+
+1576600572 e:\prog obektowe\19 dec_evening\main\include\wolf.h
+	"Animal.h"
+
+1576745924 e:\prog obektowe\19 dec_evening\main\include\lion.h
+	"Animal.h"
+
+1576709478 e:\prog obektowe\19 dec_evening\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 e:\prog obektowe\19 dec_evening\main\include\grass.h
+	"Plant.h"
+
+1576709518 e:\prog obektowe\19 dec_evening\main\include\thorn.h
+	"Plant.h"
+
+1576534829 e:\prog obektowe\19 dec_evening\main\include\guarana.h
+	"Plant.h"
+
+1576788686 e:\prog obektowe\19 dec_evening\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576608315 e:\prog obektowe\19 dec_evening\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529671 source:e:\prog obektowe\19 dec_evening\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:e:\prog obektowe\19 dec_evening\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:e:\prog obektowe\19 dec_evening\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576782217 source:e:\prog obektowe\19 dec_evening\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576608334 source:e:\prog obektowe\19 dec_evening\main\src\log.cpp
+	<Log.h>
+
+1576788889 source:e:\prog obektowe\19 dec_evening\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:e:\prog obektowe\19 dec_evening\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:e:\prog obektowe\19 dec_evening\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:e:\prog obektowe\19 dec_evening\main\src\sheep.cpp
+	"Sheep.h"
+
+1576709325 source:e:\prog obektowe\19 dec_evening\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:e:\prog obektowe\19 dec_evening\main\src\wolf.cpp
+	"Wolf.h"
+
+1576793850 source:e:\prog obektowe\19 dec_evening\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576792809 source:e:\prog obektowe\19 dec_evening\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576529518 source:c:\mingw\c++\project c++\20 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576862350 c:\mingw\c++\project c++\20 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576700324 c:\mingw\c++\project c++\20 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+
+1576600580 c:\mingw\c++\project c++\20 dec\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\mingw\c++\project c++\20 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576864555 c:\mingw\c++\project c++\20 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\mingw\c++\project c++\20 dec\main\include\plant.h
+	"Organism.h"
+
+1576621139 c:\mingw\c++\project c++\20 dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\mingw\c++\project c++\20 dec\main\include\wolf.h
+	"Animal.h"
+
+1576866064 c:\mingw\c++\project c++\20 dec\main\include\lion.h
+	"Animal.h"
+
+1576709478 c:\mingw\c++\project c++\20 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\project c++\20 dec\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\mingw\c++\project c++\20 dec\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\project c++\20 dec\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\mingw\c++\project c++\20 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576832670 c:\mingw\c++\project c++\20 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529671 source:c:\mingw\c++\project c++\20 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\mingw\c++\project c++\20 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\project c++\20 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576782217 source:c:\mingw\c++\project c++\20 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576788889 source:c:\mingw\c++\project c++\20 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\mingw\c++\project c++\20 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\mingw\c++\project c++\20 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\mingw\c++\project c++\20 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576709325 source:c:\mingw\c++\project c++\20 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:c:\mingw\c++\project c++\20 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576866011 source:c:\mingw\c++\project c++\20 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576864840 source:c:\mingw\c++\project c++\20 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576850655 source:c:\mingw\c++\project c++\20 dec\main\src\log.cpp
+	<Log.h>
+
+1576529518 source:c:\users\little john\desktop\20 dec_evening\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576879992 c:\users\little john\desktop\20 dec_evening\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576700324 c:\users\little john\desktop\20 dec_evening\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+
+1576600580 c:\users\little john\desktop\20 dec_evening\main\include\sheep.h
+	"Animal.h"
+
+1576529337 c:\users\little john\desktop\20 dec_evening\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576876110 c:\users\little john\desktop\20 dec_evening\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576529447 c:\users\little john\desktop\20 dec_evening\main\include\plant.h
+	"Organism.h"
+
+1576873459 c:\users\little john\desktop\20 dec_evening\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\users\little john\desktop\20 dec_evening\main\include\wolf.h
+	"Animal.h"
+
+1576866064 c:\users\little john\desktop\20 dec_evening\main\include\lion.h
+	"Animal.h"
+
+1576709478 c:\users\little john\desktop\20 dec_evening\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\users\little john\desktop\20 dec_evening\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\users\little john\desktop\20 dec_evening\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\users\little john\desktop\20 dec_evening\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\users\little john\desktop\20 dec_evening\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576832670 c:\users\little john\desktop\20 dec_evening\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576879485 source:c:\users\little john\desktop\20 dec_evening\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576529671 source:c:\users\little john\desktop\20 dec_evening\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\users\little john\desktop\20 dec_evening\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\users\little john\desktop\20 dec_evening\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576876270 source:c:\users\little john\desktop\20 dec_evening\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576850655 source:c:\users\little john\desktop\20 dec_evening\main\src\log.cpp
+	<Log.h>
+
+1576872370 source:c:\users\little john\desktop\20 dec_evening\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\users\little john\desktop\20 dec_evening\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576529773 source:c:\users\little john\desktop\20 dec_evening\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\users\little john\desktop\20 dec_evening\main\src\sheep.cpp
+	"Sheep.h"
+
+1576709325 source:c:\users\little john\desktop\20 dec_evening\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:c:\users\little john\desktop\20 dec_evening\main\src\wolf.cpp
+	"Wolf.h"
+
+1576879992 source:c:\users\little john\desktop\20 dec_evening\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576529518 source:c:\mingw\c++\project c++\21 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576946790 c:\mingw\c++\project c++\21 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576946731 c:\mingw\c++\project c++\21 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1576600580 c:\mingw\c++\project c++\21 dec\main\include\sheep.h
+	"Animal.h"
+
+1576954538 c:\mingw\c++\project c++\21 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576876110 c:\mingw\c++\project c++\21 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576954331 c:\mingw\c++\project c++\21 dec\main\include\plant.h
+	"Organism.h"
+
+1576941230 c:\mingw\c++\project c++\21 dec\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\mingw\c++\project c++\21 dec\main\include\wolf.h
+	"Animal.h"
+
+1576866064 c:\mingw\c++\project c++\21 dec\main\include\lion.h
+	"Animal.h"
+
+1576709478 c:\mingw\c++\project c++\21 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\project c++\21 dec\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\mingw\c++\project c++\21 dec\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\project c++\21 dec\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\mingw\c++\project c++\21 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576832670 c:\mingw\c++\project c++\21 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576953874 source:c:\mingw\c++\project c++\21 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576942980 source:c:\mingw\c++\project c++\21 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\mingw\c++\project c++\21 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\project c++\21 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576944318 source:c:\mingw\c++\project c++\21 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576946820 source:c:\mingw\c++\project c++\21 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\mingw\c++\project c++\21 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576954341 source:c:\mingw\c++\project c++\21 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\mingw\c++\project c++\21 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1576954386 source:c:\mingw\c++\project c++\21 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:c:\mingw\c++\project c++\21 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1576951094 source:c:\mingw\c++\project c++\21 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576917887 source:c:\mingw\c++\project c++\21 dec\main\src\log.cpp
+	<Log.h>
+
+1576954571 c:\mingw\c++\project c++\21 dec\main\include\skunk.h
+	"Animal.h"
+
+1576954672 source:c:\mingw\c++\project c++\21 dec\main\src\skunk.cpp
+	"Skunk.h"
+	"World.h"
+
+1576529518 source:c:\users\little john\desktop\21 dec_evening\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1576946790 c:\users\little john\desktop\21 dec_evening\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576946731 c:\users\little john\desktop\21 dec_evening\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1576600580 c:\users\little john\desktop\21 dec_evening\main\include\sheep.h
+	"Animal.h"
+
+1576959407 c:\users\little john\desktop\21 dec_evening\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1576965128 c:\users\little john\desktop\21 dec_evening\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576954331 c:\users\little john\desktop\21 dec_evening\main\include\plant.h
+	"Organism.h"
+
+1576941230 c:\users\little john\desktop\21 dec_evening\main\include\fox.h
+	"Animal.h"
+
+1576600572 c:\users\little john\desktop\21 dec_evening\main\include\wolf.h
+	"Animal.h"
+
+1576866064 c:\users\little john\desktop\21 dec_evening\main\include\lion.h
+	"Animal.h"
+
+1576965812 c:\users\little john\desktop\21 dec_evening\main\include\skunk.h
+	"Animal.h"
+
+1576709478 c:\users\little john\desktop\21 dec_evening\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\users\little john\desktop\21 dec_evening\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\users\little john\desktop\21 dec_evening\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\users\little john\desktop\21 dec_evening\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\users\little john\desktop\21 dec_evening\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576962821 c:\users\little john\desktop\21 dec_evening\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576942980 source:c:\users\little john\desktop\21 dec_evening\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576529683 source:c:\users\little john\desktop\21 dec_evening\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\users\little john\desktop\21 dec_evening\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576944318 source:c:\users\little john\desktop\21 dec_evening\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576962911 source:c:\users\little john\desktop\21 dec_evening\main\src\log.cpp
+	<Log.h>
+
+1576946820 source:c:\users\little john\desktop\21 dec_evening\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1576572800 source:c:\users\little john\desktop\21 dec_evening\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1576954341 source:c:\users\little john\desktop\21 dec_evening\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1576529783 source:c:\users\little john\desktop\21 dec_evening\main\src\sheep.cpp
+	"Sheep.h"
+
+1576965741 source:c:\users\little john\desktop\21 dec_evening\main\src\skunk.cpp
+	"Skunk.h"
+	"World.h"
+
+1576954386 source:c:\users\little john\desktop\21 dec_evening\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1576529794 source:c:\users\little john\desktop\21 dec_evening\main\src\wolf.cpp
+	"Wolf.h"
+
+1576954771 source:c:\users\little john\desktop\21 dec_evening\main\src\world.cpp
+	"World.h"
+	<string>
+
+1576964539 source:c:\users\little john\desktop\21 dec_evening\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576529518 source:c:\mingw\c++\project c++\22 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1577041260 c:\mingw\c++\project c++\22 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576946731 c:\mingw\c++\project c++\22 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1576966177 c:\mingw\c++\project c++\22 dec\main\include\sheep.h
+	"Animal.h"
+
+1577032881 c:\mingw\c++\project c++\22 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577035322 c:\mingw\c++\project c++\22 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1576954331 c:\mingw\c++\project c++\22 dec\main\include\plant.h
+	"Organism.h"
+
+1577040567 c:\mingw\c++\project c++\22 dec\main\include\fox.h
+	"Animal.h"
+
+1576966100 c:\mingw\c++\project c++\22 dec\main\include\wolf.h
+	"Animal.h"
+
+1577037522 c:\mingw\c++\project c++\22 dec\main\include\lion.h
+	"Animal.h"
+
+1577031506 c:\mingw\c++\project c++\22 dec\main\include\skunk.h
+	"Animal.h"
+
+1576709478 c:\mingw\c++\project c++\22 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1576600612 c:\mingw\c++\project c++\22 dec\main\include\grass.h
+	"Plant.h"
+
+1576709518 c:\mingw\c++\project c++\22 dec\main\include\thorn.h
+	"Plant.h"
+
+1576534829 c:\mingw\c++\project c++\22 dec\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\mingw\c++\project c++\22 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1576962821 c:\mingw\c++\project c++\22 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+
+1576529683 source:c:\mingw\c++\project c++\22 dec\main\src\grass.cpp
+	"Grass.h"
+
+1576529872 source:c:\mingw\c++\project c++\22 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1576962911 source:c:\mingw\c++\project c++\22 dec\main\src\log.cpp
+	<Log.h>
+
+1576946820 source:c:\mingw\c++\project c++\22 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577041260 source:c:\mingw\c++\project c++\22 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1577040509 source:c:\mingw\c++\project c++\22 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577040353 source:c:\mingw\c++\project c++\22 dec\main\src\skunk.cpp
+	"Skunk.h"
+	"World.h"
+
+1577040509 source:c:\mingw\c++\project c++\22 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1577041260 source:c:\mingw\c++\project c++\22 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1577040567 source:c:\mingw\c++\project c++\22 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1576966121 source:c:\mingw\c++\project c++\22 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1577040729 source:c:\mingw\c++\project c++\22 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1576965952 source:c:\mingw\c++\project c++\22 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1577037603 source:c:\mingw\c++\project c++\22 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576529518 source:c:\users\little john\desktop\22 dec_evening\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1577054158 c:\users\little john\desktop\22 dec_evening\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576946731 c:\users\little john\desktop\22 dec_evening\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\users\little john\desktop\22 dec_evening\main\include\sheep.h
+	"Animal.h"
+
+1577051230 c:\users\little john\desktop\22 dec_evening\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577049937 c:\users\little john\desktop\22 dec_evening\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1577046554 c:\users\little john\desktop\22 dec_evening\main\include\plant.h
+	"Organism.h"
+
+1577050868 c:\users\little john\desktop\22 dec_evening\main\include\fox.h
+	"Animal.h"
+
+1577047493 c:\users\little john\desktop\22 dec_evening\main\include\wolf.h
+	"Animal.h"
+
+1577051230 c:\users\little john\desktop\22 dec_evening\main\include\lion.h
+	"Animal.h"
+
+1577047493 c:\users\little john\desktop\22 dec_evening\main\include\skunk.h
+	"Animal.h"
+
+1576709478 c:\users\little john\desktop\22 dec_evening\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1577047493 c:\users\little john\desktop\22 dec_evening\main\include\grass.h
+	"Plant.h"
+
+1577047493 c:\users\little john\desktop\22 dec_evening\main\include\thorn.h
+	"Plant.h"
+
+1577047492 c:\users\little john\desktop\22 dec_evening\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\users\little john\desktop\22 dec_evening\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1577054610 c:\users\little john\desktop\22 dec_evening\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<memory>
+	<iostream>
+
+1577050868 source:c:\users\little john\desktop\22 dec_evening\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1577050868 source:c:\users\little john\desktop\22 dec_evening\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577047493 source:c:\users\little john\desktop\22 dec_evening\main\src\grass.cpp
+	"Grass.h"
+
+1577050415 source:c:\users\little john\desktop\22 dec_evening\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1577051230 source:c:\users\little john\desktop\22 dec_evening\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576962911 source:c:\users\little john\desktop\22 dec_evening\main\src\log.cpp
+	<Log.h>
+
+1576946820 source:c:\users\little john\desktop\22 dec_evening\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577049936 source:c:\users\little john\desktop\22 dec_evening\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1577047492 source:c:\users\little john\desktop\22 dec_evening\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\users\little john\desktop\22 dec_evening\main\src\sheep.cpp
+	"Sheep.h"
+
+1577050415 source:c:\users\little john\desktop\22 dec_evening\main\src\skunk.cpp
+	"Skunk.h"
+	"World.h"
+
+1577047492 source:c:\users\little john\desktop\22 dec_evening\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1577047492 source:c:\users\little john\desktop\22 dec_evening\main\src\wolf.cpp
+	"Wolf.h"
+
+1577049592 source:c:\users\little john\desktop\22 dec_evening\main\src\world.cpp
+	"World.h"
+	<string>
+
+1577090108 source:c:\mingw\c++\project c++\23 dec\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"World.h"
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1577127181 c:\mingw\c++\project c++\23 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<vector>
+	<algorithm>
+	<memory>
+	"Organism.h"
+	"Animal.h"
+	<numeric>
+	<windows.h>
+	<iostream>
+	<Menu.h>
+	<string>
+	<Log.h>
+	<fstream>
+	<ios>
+	<chrono>
+
+1576946731 c:\mingw\c++\project c++\23 dec\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\mingw\c++\project c++\23 dec\main\include\sheep.h
+	"Animal.h"
+
+1577051230 c:\mingw\c++\project c++\23 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577130216 c:\mingw\c++\project c++\23 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<utility>
+	<chrono>
+	<algorithm>
+	<typeinfo>
+	<string>
+	<functional>
+	<memory>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1577046554 c:\mingw\c++\project c++\23 dec\main\include\plant.h
+	"Organism.h"
+
+1577104753 c:\mingw\c++\project c++\23 dec\main\include\fox.h
+	"Animal.h"
+
+1577101571 c:\mingw\c++\project c++\23 dec\main\include\wolf.h
+	"Animal.h"
+
+1577051230 c:\mingw\c++\project c++\23 dec\main\include\lion.h
+	"Animal.h"
+
+1577047493 c:\mingw\c++\project c++\23 dec\main\include\skunk.h
+	"Animal.h"
+
+1576709478 c:\mingw\c++\project c++\23 dec\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1577129998 c:\mingw\c++\project c++\23 dec\main\include\grass.h
+	"Plant.h"
+
+1577047493 c:\mingw\c++\project c++\23 dec\main\include\thorn.h
+	"Plant.h"
+
+1577047492 c:\mingw\c++\project c++\23 dec\main\include\guarana.h
+	"Plant.h"
+
+1576788686 c:\mingw\c++\project c++\23 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+
+1577101496 c:\mingw\c++\project c++\23 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+	<iostream>
+
+1577122157 source:c:\mingw\c++\project c++\23 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1577121982 source:c:\mingw\c++\project c++\23 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577047493 source:c:\mingw\c++\project c++\23 dec\main\src\grass.cpp
+	"Grass.h"
+
+1577050415 source:c:\mingw\c++\project c++\23 dec\main\src\guarana.cpp
+	"Guarana.h"
+	"World.h"
+	"Animal.h"
+
+1577051230 source:c:\mingw\c++\project c++\23 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1576946820 source:c:\mingw\c++\project c++\23 dec\main\src\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577127181 source:c:\mingw\c++\project c++\23 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1577104753 source:c:\mingw\c++\project c++\23 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\mingw\c++\project c++\23 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1577127181 source:c:\mingw\c++\project c++\23 dec\main\src\skunk.cpp
+	"Skunk.h"
+	"World.h"
+
+1577104753 source:c:\mingw\c++\project c++\23 dec\main\src\thorn.cpp
+	"Thorn.h"
+	"World.h"
+
+1577047492 source:c:\mingw\c++\project c++\23 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1577130891 source:c:\mingw\c++\project c++\23 dec\main\src\world.cpp
+	"World.h"
+	<string>
+
+1577101634 source:c:\mingw\c++\project c++\23 dec\main\src\log.cpp
+	<Log.h>
+
+1577203896 source:c:\mingw\c++\project c++\24 dec_morning\main\main.cpp
+	<ctime>
+	"World.h"
+
+1577211681 c:\mingw\c++\project c++\24 dec_morning\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<Log.h>
+	<Menu.h>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<ios>
+
+1576946731 c:\mingw\c++\project c++\24 dec_morning\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\mingw\c++\project c++\24 dec_morning\main\include\sheep.h
+	"Animal.h"
+
+1577195982 c:\mingw\c++\project c++\24 dec_morning\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577203873 c:\mingw\c++\project c++\24 dec_morning\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
+1577196167 c:\mingw\c++\project c++\24 dec_morning\main\include\plant.h
+	"Organism.h"
+	"Animal.h"
+
+1577104753 c:\mingw\c++\project c++\24 dec_morning\main\include\fox.h
+	"Animal.h"
+
+1577195649 c:\mingw\c++\project c++\24 dec_morning\main\include\wolf.h
+	"Animal.h"
+
+1577211936 c:\mingw\c++\project c++\24 dec_morning\main\include\lion.h
+	"Animal.h"
+
+1577195715 c:\mingw\c++\project c++\24 dec_morning\main\include\skunk.h
+	"Animal.h"
+	"World.h"
+
+1576709478 c:\mingw\c++\project c++\24 dec_morning\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1577129998 c:\mingw\c++\project c++\24 dec_morning\main\include\grass.h
+	"Plant.h"
+
+1577195483 c:\mingw\c++\project c++\24 dec_morning\main\include\thorn.h
+	"Plant.h"
+	"World.h"
+
+1577196333 c:\mingw\c++\project c++\24 dec_morning\main\include\guarana.h
+	"Animal.h"
+	"Plant.h"
+
+1577205625 c:\mingw\c++\project c++\24 dec_morning\main\include\menu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577195267 c:\mingw\c++\project c++\24 dec_morning\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+
+1577193235 source:c:\mingw\c++\project c++\24 dec_morning\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1577206678 source:c:\mingw\c++\project c++\24 dec_morning\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577047493 source:c:\mingw\c++\project c++\24 dec_morning\main\src\grass.cpp
+	"Grass.h"
+
+1577206830 source:c:\mingw\c++\project c++\24 dec_morning\main\src\guarana.cpp
+	"Guarana.h"
+
+1577211936 source:c:\mingw\c++\project c++\24 dec_morning\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1577101634 source:c:\mingw\c++\project c++\24 dec_morning\main\src\log.cpp
+	<Log.h>
+
+1577205893 source:c:\mingw\c++\project c++\24 dec_morning\main\src\menu.cpp
+	"Menu.h"
+
+1577200106 source:c:\mingw\c++\project c++\24 dec_morning\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+
+1577204450 source:c:\mingw\c++\project c++\24 dec_morning\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\mingw\c++\project c++\24 dec_morning\main\src\sheep.cpp
+	"Sheep.h"
+
+1577212018 source:c:\mingw\c++\project c++\24 dec_morning\main\src\skunk.cpp
+	"Skunk.h"
+
+1577206542 source:c:\mingw\c++\project c++\24 dec_morning\main\src\thorn.cpp
+	"Thorn.h"
+
+1577047492 source:c:\mingw\c++\project c++\24 dec_morning\main\src\wolf.cpp
+	"Wolf.h"
+
+1577211779 source:c:\mingw\c++\project c++\24 dec_morning\main\src\world.cpp
+	"World.h"
+
+1577203896 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\main.cpp
+	<ctime>
+	"World.h"
+
+1577211681 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<Log.h>
+	<Menu.h>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<ios>
+
+1576946731 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\animals.h
+	"Sheep.h"
+	"Fox.h"
+	"Wolf.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\sheep.h
+	"Animal.h"
+
+1577195982 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577203873 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
+1577196167 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\plant.h
+	"Organism.h"
+	"Animal.h"
+
+1577104753 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\fox.h
+	"Animal.h"
+
+1577195649 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\wolf.h
+	"Animal.h"
+
+1577211936 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\lion.h
+	"Animal.h"
+
+1577214538 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\skunk.h
+	"Animal.h"
+	"World.h"
+
+1576709478 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\plants.h
+	"Grass.h"
+	"Thorn.h"
+	"Guarana.h"
+
+1577129998 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\grass.h
+	"Plant.h"
+
+1577195483 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\thorn.h
+	"Plant.h"
+	"World.h"
+
+1577196333 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\guarana.h
+	"Animal.h"
+	"Plant.h"
+
+1577195267 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+
+1577205625 c:\mingw\c++\project c++\24 dec_morning - copy\main\include\menu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577193235 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1577047493 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\grass.cpp
+	"Grass.h"
+
+1577206830 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\guarana.cpp
+	"Guarana.h"
+
+1577211936 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1577101634 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\log.cpp
+	<Log.h>
+
+1577205893 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\menu.cpp
+	"Menu.h"
+
+1577200106 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+
+1577204450 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\sheep.cpp
+	"Sheep.h"
+
+1577206542 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\thorn.cpp
+	"Thorn.h"
+
+1577047492 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\wolf.cpp
+	"Wolf.h"
+
+1577214561 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\world.cpp
+	"World.h"
+
+1577212163 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577214511 source:c:\mingw\c++\project c++\24 dec_morning - copy\main\src\skunk.cpp
+	"Skunk.h"
+
+1577203896 source:c:\mingw\c++\project c++\25 dec\main\main.cpp
+	<ctime>
+	"World.h"
+
+1577266336 c:\mingw\c++\project c++\25 dec\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<Log.h>
+	<Menu.h>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<ios>
+
+1577292442 c:\mingw\c++\project c++\25 dec\main\include\animals.h
+	"Sheep.h"
+	"Wolf.h"
+	"Fox.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\mingw\c++\project c++\25 dec\main\include\sheep.h
+	"Animal.h"
+
+1577291966 c:\mingw\c++\project c++\25 dec\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577287684 c:\mingw\c++\project c++\25 dec\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
+1577196167 c:\mingw\c++\project c++\25 dec\main\include\plant.h
+	"Organism.h"
+	"Animal.h"
+
+1577104753 c:\mingw\c++\project c++\25 dec\main\include\fox.h
+	"Animal.h"
+
+1577293047 c:\mingw\c++\project c++\25 dec\main\include\wolf.h
+	"Animal.h"
+
+1577294156 c:\mingw\c++\project c++\25 dec\main\include\lion.h
+	"Animal.h"
+
+1577296249 c:\mingw\c++\project c++\25 dec\main\include\skunk.h
+	"Animal.h"
+	"World.h"
+
+1577292420 c:\mingw\c++\project c++\25 dec\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+	"Thorn.h"
+
+1577274766 c:\mingw\c++\project c++\25 dec\main\include\grass.h
+	"Plant.h"
+
+1577293017 c:\mingw\c++\project c++\25 dec\main\include\thorn.h
+	"Plant.h"
+	"World.h"
+
+1577274895 c:\mingw\c++\project c++\25 dec\main\include\guarana.h
+	"Animal.h"
+	"Plant.h"
+
+1577195267 c:\mingw\c++\project c++\25 dec\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+
+1577292094 c:\mingw\c++\project c++\25 dec\main\include\menu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577291966 source:c:\mingw\c++\project c++\25 dec\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+
+1577292884 source:c:\mingw\c++\project c++\25 dec\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577292661 source:c:\mingw\c++\project c++\25 dec\main\src\grass.cpp
+	"Grass.h"
+
+1577206830 source:c:\mingw\c++\project c++\25 dec\main\src\guarana.cpp
+	"Guarana.h"
+
+1577294188 source:c:\mingw\c++\project c++\25 dec\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1577292037 source:c:\mingw\c++\project c++\25 dec\main\src\log.cpp
+	<Log.h>
+
+1577292395 source:c:\mingw\c++\project c++\25 dec\main\src\menu.cpp
+	"Menu.h"
+
+1577290312 source:c:\mingw\c++\project c++\25 dec\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+
+1577290594 source:c:\mingw\c++\project c++\25 dec\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\mingw\c++\project c++\25 dec\main\src\sheep.cpp
+	"Sheep.h"
+
+1577292978 source:c:\mingw\c++\project c++\25 dec\main\src\thorn.cpp
+	"Thorn.h"
+
+1577047492 source:c:\mingw\c++\project c++\25 dec\main\src\wolf.cpp
+	"Wolf.h"
+
+1577294967 source:c:\mingw\c++\project c++\25 dec\main\src\skunk.cpp
+	"Skunk.h"
+
+1577294457 source:c:\mingw\c++\project c++\25 dec\main\src\world.cpp
+	"World.h"
+
+1578927406 source:c:\users\little john\desktop\25 dec - evening\main\main.cpp
+	<ctime>
+	"World.h"
+
+1578929047 c:\users\little john\desktop\25 dec - evening\main\include\world.h
+	"Animals.h"
+	"Plants.h"
+	<Log.h>
+	<Menu.h>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<ios>
+
+1577292442 c:\users\little john\desktop\25 dec - evening\main\include\animals.h
+	"Sheep.h"
+	"Wolf.h"
+	"Fox.h"
+	"Lion.h"
+	"Skunk.h"
+
+1577047492 c:\users\little john\desktop\25 dec - evening\main\include\sheep.h
+	"Animal.h"
+
+1577291966 c:\users\little john\desktop\25 dec - evening\main\include\animal.h
+	"Organism.h"
+	"Plant.h"
+
+1577287684 c:\users\little john\desktop\25 dec - evening\main\include\organism.h
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
+1577196167 c:\users\little john\desktop\25 dec - evening\main\include\plant.h
+	"Organism.h"
+	"Animal.h"
+
+1577293047 c:\users\little john\desktop\25 dec - evening\main\include\wolf.h
+	"Animal.h"
+
+1577104753 c:\users\little john\desktop\25 dec - evening\main\include\fox.h
+	"Animal.h"
+
+1577294156 c:\users\little john\desktop\25 dec - evening\main\include\lion.h
+	"Animal.h"
+
+1577296249 c:\users\little john\desktop\25 dec - evening\main\include\skunk.h
+	"Animal.h"
+	"World.h"
+
+1577292420 c:\users\little john\desktop\25 dec - evening\main\include\plants.h
+	"Grass.h"
+	"Guarana.h"
+	"Thorn.h"
+
+1577274766 c:\users\little john\desktop\25 dec - evening\main\include\grass.h
+	"Plant.h"
+
+1577274895 c:\users\little john\desktop\25 dec - evening\main\include\guarana.h
+	"Animal.h"
+	"Plant.h"
+
+1577293017 c:\users\little john\desktop\25 dec - evening\main\include\thorn.h
+	"Plant.h"
+	"World.h"
+
+1577195267 c:\users\little john\desktop\25 dec - evening\main\include\log.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<Menu.h>
+	<string>
+
+1577292094 c:\users\little john\desktop\25 dec - evening\main\include\menu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+
+1577292884 source:c:\users\little john\desktop\25 dec - evening\main\src\fox.cpp
+	"Fox.h"
+	"World.h"
+
+1577292661 source:c:\users\little john\desktop\25 dec - evening\main\src\grass.cpp
+	"Grass.h"
+
+1578928455 source:c:\users\little john\desktop\25 dec - evening\main\src\animal.cpp
+	"Animal.h"
+	"World.h"
+	<string>
+	<typeinfo>
+
+1577206830 source:c:\users\little john\desktop\25 dec - evening\main\src\guarana.cpp
+	"Guarana.h"
+
+1577294188 source:c:\users\little john\desktop\25 dec - evening\main\src\lion.cpp
+	"Lion.h"
+	"World.h"
+
+1577292037 source:c:\users\little john\desktop\25 dec - evening\main\src\log.cpp
+	<Log.h>
+
+1577292395 source:c:\users\little john\desktop\25 dec - evening\main\src\menu.cpp
+	"Menu.h"
+
+1577290312 source:c:\users\little john\desktop\25 dec - evening\main\src\organism.cpp
+	"Organism.h"
+	"World.h"
+
+1577290594 source:c:\users\little john\desktop\25 dec - evening\main\src\plant.cpp
+	"Plant.h"
+	"World.h"
+
+1577047492 source:c:\users\little john\desktop\25 dec - evening\main\src\sheep.cpp
+	"Sheep.h"
+
+1577296345 source:c:\users\little john\desktop\25 dec - evening\main\src\skunk.cpp
+	"Skunk.h"
+
+1577292978 source:c:\users\little john\desktop\25 dec - evening\main\src\thorn.cpp
+	"Thorn.h"
+
+1577047492 source:c:\users\little john\desktop\25 dec - evening\main\src\wolf.cpp
+	"Wolf.h"
+
+1578928986 source:c:\users\little john\desktop\25 dec - evening\main\src\world.cpp
+	"World.h"
+
