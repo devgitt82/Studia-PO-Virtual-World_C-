@@ -31,24 +31,21 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 > * kolizja() → określa zachowanie organizmu w trakcie kontaktu/zderzenia z innym organizmem,
 > * rysowanie() → powoduje narysowanie symbolicznej reprezentacji organizmu.
 > Klasa Organizm powinna być abstrakcyjna. Dziedziczyć po niej powinny dwie kolejne abstrakcyjne klasy: Roślina oraz Zwierzę.`
-
-
-W klasie Zwierze należy zaimplementować wspólne dla wszystkich/większości zwierząt zachowania, przede wszystkim:
-•	podstawową formę ruchu w metodzie akcja() → każde typowe zwierze w swojej turze przesuwa się na wybrane losowo, sąsiednie pole,
-•	rozmnażanie w ramach metody kolizja() → przy kolizji z organizmem tego samego gatunku nie dochodzi do walki, oba zwierzęta pozostają na swoich miejscach, koło nich pojawia się trzecie zwierze, tego samego gatunku.
-
-Zaimplementuj 5 klas zwierząt (wilk, owca , jedno zwierze wymyślone przez Ciebie, 2 zwierzęta przydzielone na podstawie Twojego numeru indeksu lub inicjałów ). Rodzaje zwierząt definiuje poniższa tabela.
-
-W klasie Roślina zaimplementuj wspólne dla wszystkich/większości roślin zachowania, przede wszystkim:
-•	symulacja rozprzestrzeniania się rośliny w metodzie akcja() → z pewnym
-prawdopodobieństwem każda z roślin może „zasiać” nową roślinę tego samego gatunku na losowym, sąsiednim polu.
-
-Wszystkie rośliny mają zerową inicjatywę.
-
-
-Zaimplementuj 3 klasy roślin (trawa oraz 2 rośliny przydzielone na podstawie Twojego numeru indeksu lub inicjałów). Rodzaje roślin definiuje poniższa tabela.
-
-Stwórz klasę Świat zawierającą dwuwymiarową tablicę wskaźników na obiekty klasy Organizm. Zaimplementuj przebieg tury, wywołując metody akcja() dla wszystkich organizmów oraz kolizja() dla organizmów na tym
+>
+> W klasie Zwierze należy zaimplementować wspólne dla wszystkich/większości zwierząt zachowania, przede wszystkim:
+> * podstawową formę ruchu w metodzie akcja() → każde typowe zwierze w swojej turze przesuwa się na wybrane losowo, sąsiednie pole,
+> * rozmnażanie w ramach metody kolizja() → przy kolizji z organizmem tego samego gatunku nie dochodzi do walki, oba zwierzęta pozostają na swoich miejscach, koło nich pojawia się trzecie zwierze, tego samego gatunku.
+>
+> Zaimplementuj 5 klas zwierząt (wilk, owca , jedno zwierze wymyślone przez Ciebie, 2 zwierzęta przydzielone na podstawie Twojego numeru indeksu lub inicjałów ). Rodzaje zwierząt definiuje poniższa tabela.
+>
+> W klasie Roślina zaimplementuj wspólne dla wszystkich/większości roślin zachowania, przede wszystkim:
+>  * symulacja rozprzestrzeniania się rośliny w metodzie akcja() → z pewnym prawdopodobieństwem każda z roślin może „zasiać” nową roślinę tego samego gatunku na losowym, sąsiednim polu.
+>
+> >Wszystkie rośliny mają zerową inicjatywę.
+>
+> Zaimplementuj 3 klasy roślin (trawa oraz 2 rośliny przydzielone na podstawie Twojego numeru indeksu lub inicjałów). Rodzaje roślin definiuje poniższa tabela.
+>
+> Stwórz klasę Świat zawierającą dwuwymiarową tablicę wskaźników na obiekty klasy Organizm. Zaimplementuj przebieg tury, wywołując metody akcja() dla wszystkich organizmów oraz kolizja() dla organizmów na tym
 samym polu. Pamiętaj, że kolejność wywoływania metody akcja() zależy od inicjatywy (lub wieku, w przypadku równych wartości inicjatyw) organizmu.
 Organizmy mają możliwość wpływania na stan świata. Dlatego istnieje konieczność przekazania metodom akcja() oraz kolizja() parametru określającego obiekt klasy Świat. Postaraj się, aby klasa Świat definiowała jako publiczne składowe tylko takie pola i metody, które są potrzebne
 pozostałym obiektom aplikacji do działania. Pozostałą funkcjonalność świata staraj się zawrzeć w składowych prywatnych.
