@@ -1,4 +1,4 @@
-# Wirtualny Świat - wersja C++ Code::Blocks.
+# Wirtualny Świat - wersja C++ (Code::Blocks project).
 
 **Cel Projektu**
 ---
