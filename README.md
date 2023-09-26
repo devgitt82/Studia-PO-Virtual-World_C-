@@ -14,13 +14,13 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 ---
 
 > Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. <br>Powinna zawierać m.in. metody:<br><br>
-* wykonajTure()
-* rysujSwiat()<br><br>
+> * wykonajTure()
+> * rysujSwiat()<br><br>
 > pola:
-* organizmy <br>
+> * organizmy <br>
 > Należy również utworzyć abstrakcyjną klasę Organizm. podstawowe pola:
-* siła
-* inicjatywa
+> * siła
+> * inicjatywa
 * położenie (x,y) (należy zwrócić uwagę aby uniknąć możliwej redundancji - skoro obiekt organizm zawiera informację o swoim położeniu- nie powinna być ona powielona w klasie świat).
 * świat - referencja do świata w którym znajduje się organizm<br>
 > podstawowe metody:
