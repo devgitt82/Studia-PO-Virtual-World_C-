@@ -38,6 +38,8 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 >
 > Zaimplementuj 5 klas zwierząt (wilk, owca , jedno zwierze wymyślone przez Ciebie, 2 zwierzęta przydzielone na podstawie Twojego numeru indeksu lub inicjałów ). Rodzaje zwierząt definiuje poniższa tabela.
 >
+> ![Tabela 1](https://)
+>
 > W klasie Roślina zaimplementuj wspólne dla wszystkich/większości roślin zachowania, przede wszystkim:
 >  * symulacja rozprzestrzeniania się rośliny w metodzie akcja() → z pewnym prawdopodobieństwem każda z roślin może „zasiać” nową roślinę tego samego gatunku na losowym, sąsiednim polu.
 >
