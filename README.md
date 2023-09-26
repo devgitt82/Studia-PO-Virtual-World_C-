@@ -13,7 +13,9 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 **Wymagania**
 ---
 
-> Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. Powinna zawierać m.in. metody:
+> Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów.
+>
+> Powinna zawierać m.in. metody:
 > * wykonajTure()
 > * rysujSwiat() pola:
 > * organizmy
