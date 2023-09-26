@@ -26,7 +26,7 @@ podstawowe metody:
 •	akcja() → określa zachowanie organizmu w trakcie tury,
 •	kolizja() → określa zachowanie organizmu w trakcie kontaktu/zderzenia z innym organizmem,
 •	rysowanie() → powoduje narysowanie symbolicznej reprezentacji organizmu.
-Klasa Organizm powinna być abstrakcyjna. Dziedziczyć po niej powinny dwie kolejne abstrakcyjne klasy: Roślina oraz Zwierzę.
+Klasa Organizm powinna być abstrakcyjna. Dziedziczyć po niej powinny dwie kolejne abstrakcyjne klasy: Roślina oraz Zwierzę.`
 
 
 W klasie Zwierze należy zaimplementować wspólne dla wszystkich/większości zwierząt zachowania, przede wszystkim:
@@ -51,5 +51,5 @@ pozostałym obiektom aplikacji do działania. Pozostałą funkcjonalność świa
 
 Wizualizację świata należy przeprowadzić w konsoli. Każdy organizm jest reprezentowany przez inny symbol ASCII. Naciśnięcie jednego z klawiszy powoduje przejście do kolejnej tury, wyczyszczenie konsoli i ponowne wypisanie odpowiednich symboli, reprezentujących zmieniony stan gry. Co najmniej jedna linia tekstu w konsoli przeznaczona jest na raportowanie wyników
 zdarzeń takich jak jedzenie lub wynik walki.
-`
+
 
