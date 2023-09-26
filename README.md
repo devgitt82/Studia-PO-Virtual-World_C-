@@ -47,6 +47,8 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 >
 > Zaimplementuj 3 klasy roślin (trawa oraz 2 rośliny przydzielone na podstawie Twojego numeru indeksu lub inicjałów). Rodzaje roślin definiuje poniższa tabela.
 >
+> ![Tabela 2](/img/tabela2.png)
+> 
 > Stwórz klasę Świat zawierającą dwuwymiarową tablicę wskaźników na obiekty klasy Organizm. Zaimplementuj przebieg tury, wywołując metody akcja() dla wszystkich organizmów oraz kolizja() dla organizmów na tym
 samym polu. Pamiętaj, że kolejność wywoływania metody akcja() zależy od inicjatywy (lub wieku, w przypadku równych wartości inicjatyw) organizmu.
 Organizmy mają możliwość wpływania na stan świata. Dlatego istnieje konieczność przekazania metodom akcja() oraz kolizja() parametru określającego obiekt klasy Świat. Postaraj się, aby klasa Świat definiowała jako publiczne składowe tylko takie pola i metody, które są potrzebne
