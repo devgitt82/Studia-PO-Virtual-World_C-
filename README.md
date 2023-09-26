@@ -17,7 +17,8 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 > * wykonajTure()
 > * rysujSwiat() pola:
 > * organizmy
-> Należy również utworzyć abstrakcyjną klasę Organizm. <br>podstawowe pola:
+> Należy również utworzyć abstrakcyjną klasę Organizm.
+> Podstawowe pola:
 > * siła
 > * inicjatywa
 > * położenie (x,y) (należy zwrócić uwagę aby uniknąć możliwej redundancji - skoro obiekt organizm zawiera informację o swoim położeniu- nie powinna być ona powielona w klasie świat).
