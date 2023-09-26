@@ -13,20 +13,20 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 **Wymagania**
 ---
 
-`Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. Powinna zawierać m.in. metody:
-•	wykonajTure()
-•	rysujSwiat() pola:
-•	organizmy
-Należy również utworzyć abstrakcyjną klasę Organizm. podstawowe pola:
-•	siła
-•	inicjatywa
-•	położenie (x,y) (należy zwrócić uwagę aby uniknąć możliwej redundancji - skoro obiekt organizm zawiera informację o swoim położeniu- nie powinna być ona powielona w klasie świat).
-•	świat - referencja do świata w którym znajduje się organizm
-podstawowe metody:
-•	akcja() → określa zachowanie organizmu w trakcie tury,
-•	kolizja() → określa zachowanie organizmu w trakcie kontaktu/zderzenia z innym organizmem,
-•	rysowanie() → powoduje narysowanie symbolicznej reprezentacji organizmu.
-Klasa Organizm powinna być abstrakcyjna. Dziedziczyć po niej powinny dwie kolejne abstrakcyjne klasy: Roślina oraz Zwierzę.`
+> Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. Powinna zawierać m.in. metody:
+> * wykonajTure()
+> * rysujSwiat() pola:
+> * 	organizmy
+> Należy również utworzyć abstrakcyjną klasę Organizm. podstawowe pola:
+> * siła
+> * inicjatywa
+> * położenie (x,y) (należy zwrócić uwagę aby uniknąć możliwej redundancji - skoro obiekt organizm zawiera informację o swoim położeniu- nie powinna być ona powielona w klasie świat).
+> * świat - referencja do świata w którym znajduje się organizm
+> podstawowe metody:
+> * akcja() → określa zachowanie organizmu w trakcie tury,
+> * kolizja() → określa zachowanie organizmu w trakcie kontaktu/zderzenia z innym organizmem,
+> * rysowanie() → powoduje narysowanie symbolicznej reprezentacji organizmu.
+> Klasa Organizm powinna być abstrakcyjna. Dziedziczyć po niej powinny dwie kolejne abstrakcyjne klasy: Roślina oraz Zwierzę.`
 
 
 W klasie Zwierze należy zaimplementować wspólne dla wszystkich/większości zwierząt zachowania, przede wszystkim:
