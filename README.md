@@ -41,7 +41,7 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 > W klasie Roślina zaimplementuj wspólne dla wszystkich/większości roślin zachowania, przede wszystkim:
 >  * symulacja rozprzestrzeniania się rośliny w metodzie akcja() → z pewnym prawdopodobieństwem każda z roślin może „zasiać” nową roślinę tego samego gatunku na losowym, sąsiednim polu.
 >
-> >Wszystkie rośliny mają zerową inicjatywę.
+> Wszystkie rośliny mają zerową inicjatywę.
 >
 > Zaimplementuj 3 klasy roślin (trawa oraz 2 rośliny przydzielone na podstawie Twojego numeru indeksu lub inicjałów). Rodzaje roślin definiuje poniższa tabela.
 >
