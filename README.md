@@ -1,4 +1,4 @@
-# Wirtualny Ścwiat - wersja C++.
+# Wirtualny Świat - wersja C++.
 
 **Cel Projektu**
 ---
@@ -13,7 +13,7 @@ Symulator ma mieć charakter turowy. W każdej turze wszystkie organizmy istniej
 **Wymagania**
 ---
 
-Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. <br>Powinna zawierać m.in. metody:<br><br>
+> Należy utworzyć klasę Świat (Swiat) będącą kontenerem organizmów. <br>Powinna zawierać m.in. metody:<br><br>
 * wykonajTure()
 * rysujSwiat()<br><br>
 pola:
